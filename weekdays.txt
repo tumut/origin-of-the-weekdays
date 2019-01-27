@@ -1,0 +1,189 @@
+Saturday - Saturn Day
+---
+00h - Saturn
+01h - Jupiter
+02h - Mars
+03h - Sun
+04h - Venus
+05h - Mercury
+06h - Moon
+07h - Saturn
+08h - Jupiter
+09h - Mars
+10h - Sun
+11h - Venus
+12h - Mercury
+13h - Moon
+14h - Saturn
+15h - Jupiter
+16h - Mars
+17h - Sun
+18h - Venus
+19h - Mercury
+20h - Moon
+21h - Saturn
+22h - Jupiter
+23h - Mars
+
+Sunday - Sun Day
+---
+00h - Sun
+01h - Venus
+02h - Mercury
+03h - Moon
+04h - Saturn
+05h - Jupiter
+06h - Mars
+07h - Sun
+08h - Venus
+09h - Mercury
+10h - Moon
+11h - Saturn
+12h - Jupiter
+13h - Mars
+14h - Sun
+15h - Venus
+16h - Mercury
+17h - Moon
+18h - Saturn
+19h - Jupiter
+20h - Mars
+21h - Sun
+22h - Venus
+23h - Mercury
+
+Monday - Moon Day
+---
+00h - Moon
+01h - Saturn
+02h - Jupiter
+03h - Mars
+04h - Sun
+05h - Venus
+06h - Mercury
+07h - Moon
+08h - Saturn
+09h - Jupiter
+10h - Mars
+11h - Sun
+12h - Venus
+13h - Mercury
+14h - Moon
+15h - Saturn
+16h - Jupiter
+17h - Mars
+18h - Sun
+19h - Venus
+20h - Mercury
+21h - Moon
+22h - Saturn
+23h - Jupiter
+
+Tuesday - Mars Day
+---
+00h - Mars
+01h - Sun
+02h - Venus
+03h - Mercury
+04h - Moon
+05h - Saturn
+06h - Jupiter
+07h - Mars
+08h - Sun
+09h - Venus
+10h - Mercury
+11h - Moon
+12h - Saturn
+13h - Jupiter
+14h - Mars
+15h - Sun
+16h - Venus
+17h - Mercury
+18h - Moon
+19h - Saturn
+20h - Jupiter
+21h - Mars
+22h - Sun
+23h - Venus
+
+Wednesday - Mercury Day
+---
+00h - Mercury
+01h - Moon
+02h - Saturn
+03h - Jupiter
+04h - Mars
+05h - Sun
+06h - Venus
+07h - Mercury
+08h - Moon
+09h - Saturn
+10h - Jupiter
+11h - Mars
+12h - Sun
+13h - Venus
+14h - Mercury
+15h - Moon
+16h - Saturn
+17h - Jupiter
+18h - Mars
+19h - Sun
+20h - Venus
+21h - Mercury
+22h - Moon
+23h - Saturn
+
+Thursday - Jupiter Day
+---
+00h - Jupiter
+01h - Mars
+02h - Sun
+03h - Venus
+04h - Mercury
+05h - Moon
+06h - Saturn
+07h - Jupiter
+08h - Mars
+09h - Sun
+10h - Venus
+11h - Mercury
+12h - Moon
+13h - Saturn
+14h - Jupiter
+15h - Mars
+16h - Sun
+17h - Venus
+18h - Mercury
+19h - Moon
+20h - Saturn
+21h - Jupiter
+22h - Mars
+23h - Sun
+
+Friday - Venus Day
+---
+00h - Venus
+01h - Mercury
+02h - Moon
+03h - Saturn
+04h - Jupiter
+05h - Mars
+06h - Sun
+07h - Venus
+08h - Mercury
+09h - Moon
+10h - Saturn
+11h - Jupiter
+12h - Mars
+13h - Sun
+14h - Venus
+15h - Mercury
+16h - Moon
+17h - Saturn
+18h - Jupiter
+19h - Mars
+20h - Sun
+21h - Venus
+22h - Mercury
+23h - Moon
+
