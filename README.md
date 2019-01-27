@@ -3,7 +3,7 @@
 The names of the days of the week in many languages are derived from the names of the classical planets in Hellenistic astrology.[¹](https://en.wikipedia.org/wiki/Names_of_the_days_of_the_week) The pattern remains the same across many cultures, but here are the planets associated with each day of the week:
 
 | Weekday | Planet |
-|---|
+|---|---|
 | Saturday | Saturn ♄ |
 | Sunday | Sun ☉ |
 | Monday | Moon ☽ |
